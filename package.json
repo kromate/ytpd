@@ -6,5 +6,8 @@
   "repository": "https://github.com/kromate/ytpd",
   "author": "kromate",
   "license": "yes",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "ytdl-core": "^4.4.5"
+  }
 }
