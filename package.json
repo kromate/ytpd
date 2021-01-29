@@ -1,0 +1,10 @@
+{
+  "name": "ytpd",
+  "version": "1.0.0",
+  "description": "a youtube playlist downloader",
+  "main": "app.js",
+  "repository": "https://github.com/kromate/ytpd",
+  "author": "kromate",
+  "license": "yes",
+  "private": false
+}
