@@ -6,6 +6,9 @@
   "repository": "https://github.com/kromate/ytpd",
   "author": "kromate",
   "license": "yes",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "private": false,
   "dependencies": {
     "express": "^4.17.1",
